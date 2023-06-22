@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "860160801827",
+    "project_id": "whatsapp-messenger-dfc10",
+    "storage_bucket": "whatsapp-messenger-dfc10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860160801827:android:ab5fd44ff6eb5af8948596",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860160801827-8vbu104u4i3p6f6mfq4ck3b5vhjiic17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2d9vC4QCUS66DvBj6pbb_Hf0K_euoRCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860160801827-8vbu104u4i3p6f6mfq4ck3b5vhjiic17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
